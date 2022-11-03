@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Contents was added by branch issue2
+=======
+Contents was added by branch issue3
+>>>>>>> thrid branch commit
