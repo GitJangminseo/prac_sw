@@ -1,3 +1,0 @@
-This file is first br1 Text.
-Contents was added by branch issue2
-Contents was added by branch issue3
